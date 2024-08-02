@@ -22,5 +22,6 @@ $(document).ready(function() {
 
         // If all validations pass, show success message
         alert("Success!");
+        // i am adding some changes
     });
 });
